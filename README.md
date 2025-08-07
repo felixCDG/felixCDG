@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">Apaixonado por desenvolvimento Front-end</h3>
 
-- 🔭 Atualmente trabalhando em projetos como carrosséis, semáforos, etc.
-- 🌱 Estudando **JavaScript, CSS e Python**
-- 📫 Contato: felix@example.com
+- 🔭 Atualmente estudo Desenvolvimento de sistema no Senai Jandira.
+- 🌱 Estudando **JavaScript, CSS, Python, Kotlin**
+- 📫 Contato: felixaraujo2212@gamail.com
 - ⚡ Curiosidade: gosto de programar ouvindo música 🎧
 
 ---
